@@ -16,8 +16,7 @@ If you download the project you can find the practical introduction into Python 
 5. For statement - how to loop the program?
 6. If statement - how to use if statement?
 7. Function - and how to declare them?
-8. Comments and Documentation - how it is done in Python?
-9.x - x. TBC
+8. - x. TBC
 
 #### How to use?
 
