@@ -9,15 +9,16 @@ If you download the project you can find the practical introduction into Python 
 
 ##### Table of Contents
 
-1. Introduction - How to declare an variable [x]
-2. Printing - how to print in python? How to print variables?
-3. Collections - what is list, tuple, dict?
-4. Inmutable vs Mutable - what is inmutable vs mutable type?
-5. For statement - how to loop the program?
-6. If statement - how to use if statement?
-7. Function - and how to declare them?
-8. Comments and Documentation - how it is done in Python?
-9.x - x. TBC
+Introduction - How to declare an variable [x]
+Printing - how to print in python? How to print variables? [x]
+More about int and arithmetic operations in Python
+Collections - what is list, tuple, dict?
+Inmutable vs Mutable - what is inmutable vs mutable type?
+For statement - how to loop the program?
+If statement - how to use if statement?
+Function - and how to declare them?
+Comments and Documentation - how it is done in Python?
+TBC.
 
 #### How to use?
 
