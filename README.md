@@ -11,13 +11,14 @@ If you download the project you can find the practical introduction into Python 
 
 * Introduction - How to declare an variable [x]
 * Printing - how to print in python? How to print variables? [x]
-* Arithmetic operations in Python
+* Arithmetic operations in Python [x]
 * Collections - what is list, tuple, dict?
 * Inmutable vs Mutable - what is inmutable vs mutable type?
 * For statement - how to loop the program?
 * If statement - how to use if statement?
 * Function - and how to declare them?
 * Comments and Documentation - how it is done in Python?
+* Handling Exceptions in Python
 TBC.
 
 #### How to use?
