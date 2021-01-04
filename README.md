@@ -11,6 +11,7 @@ If you download the project you can find the practical introduction into Python 
 
 * Introduction - How to declare an variable [x]
 * Printing - how to print in python? How to print variables? [x]
+* Input - how to input data in python?
 * Arithmetic operations in Python [x]
 * Collections - what is list, tuple, dict?
 * Inmutable vs Mutable - what is inmutable vs mutable type?
