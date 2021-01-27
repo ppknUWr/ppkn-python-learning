@@ -13,10 +13,10 @@ If you download the project you can find the practical introduction into Python 
 * Printing - how to print in python? How to print variables? [x]
 * Input - how to input data in python? [x]
 * Arithmetic operations in Python [x]
+* If statement - how to use if statement? [x]
+* For statement - how to loop the program?
 * Collections - what is list, tuple, dict?
 * Inmutable vs Mutable - what is inmutable vs mutable type?
-* For statement - how to loop the program?
-* If statement - how to use if statement?
 * Function - and how to declare them?
 * Comments and Documentation - how it is done in Python?
 * Handling Exceptions in Python
