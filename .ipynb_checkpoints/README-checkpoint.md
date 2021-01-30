@@ -14,7 +14,7 @@ If you download the project you can find the practical introduction into Python 
 * Input - how to input data in python? [x]
 * Arithmetic operations in Python [x]
 * If statement - how to use if statement? [x]
-* For statement - how to loop the program?
+* For statement - how to loop the program? [x]
 * Collections - what is list, tuple, dict?
 * Inmutable vs Mutable - what is inmutable vs mutable type?
 * Function - and how to declare them?
