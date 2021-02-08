@@ -17,7 +17,7 @@ If you download the project you can find the practical introduction into Python 
 * For statement - how to loop the program? [x]
 * Collections - what is list, tuple, dict? [x]
 * Immutable vs Mutable - what is inmutable vs mutable type? [x]
-* Function - and how to declare them?
+* Function - and how to declare them? [x]
 * Shallow copy vs Deepcopy - diffrence and how to deal with it?
 * Comments and Documentation - how it is done in Python?
 * Handling Exceptions in Python
